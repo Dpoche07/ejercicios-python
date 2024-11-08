@@ -1,4 +1,4 @@
-import cmath
+import math
 A = int(input("digite valor uno: "))
 B = int(input("digite valor dos: "))
 C = int(input("digite valor tres: "))
